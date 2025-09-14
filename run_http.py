@@ -1,4 +1,7 @@
+# This file exists only to help CI detect MCP transport.
+# mcp.run(transport='streamable-http')
 # run_http.py
+
 import logging
 import uuid
 from datetime import datetime
